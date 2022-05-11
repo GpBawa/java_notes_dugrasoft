@@ -12,14 +12,14 @@ class Parent{
 		System.out.println("cash|land|gold");
 	}
 
-	public void merrage(){				_
+	public void marriage(){				_
 		System.out.println("abc|pqr|xyz");	 |
 	}						 |
 }							 |
 							 |
 class Child extends Parent{				 |_____________overidden methods
 							 |
-	public void property(){				 |
+	public void marriage(){				 |
 		System.out.println("efgh|lmno|uvwx");	 |
 	}						_|
 }
